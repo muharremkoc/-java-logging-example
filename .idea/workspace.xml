@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5713617-1a72-48ae-a409-f99aae2673aa" name="Default Changelist" comment="Log4j Updated" />
+    <list default="true" id="a5713617-1a72-48ae-a409-f99aae2673aa" name="Default Changelist" comment="Java Logging Example">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maven/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maven/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maven/example/logs/LoggingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maven/example/logs/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maven/example/logs/MyFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maven/example/logs/MyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mylogging.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,11 +123,9 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Logging Example" />
-    <MESSAGE value="Log4j Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Log4j Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Logging Example" />
   </component>
 </project>
