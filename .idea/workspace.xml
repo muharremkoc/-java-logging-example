@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5713617-1a72-48ae-a409-f99aae2673aa" name="Default Changelist" comment="Log4j Updated">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5713617-1a72-48ae-a409-f99aae2673aa" name="Default Changelist" comment="Log4j Updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,23 +57,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main ">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="workingwithmaven" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main " type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.maven.example.Main" />
-      <module name="workingwithmaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.maven.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,19 +74,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,7 +97,6 @@
       <workItem from="1619013178855" duration="3562000" />
       <workItem from="1619073568011" duration="99000" />
       <workItem from="1621837297574" duration="1621000" />
-      <workItem from="1621840157662" duration="597000" />
     </task>
     <servers />
   </component>
@@ -148,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Logging Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Logging Example" />
+    <MESSAGE value="Log4j Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Log4j Updated" />
   </component>
 </project>
