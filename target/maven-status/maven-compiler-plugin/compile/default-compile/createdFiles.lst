@@ -1,0 +1,6 @@
+com\maven\example\LoggingExample.class
+com\maven\example\MyFilter.class
+com\maven\example\Person.class
+com\maven\example\MyHandler.class
+com\maven\example\Main.class
+com\maven\example\MyFormatter.class
